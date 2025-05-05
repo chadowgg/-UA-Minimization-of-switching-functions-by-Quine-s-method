@@ -156,3 +156,6 @@ y = x̅₄x̅₃x̅₂x₁ ∪ x₃x₂x₁ ∪ x₄x₃x̅₁ ∪ x₄x₂
 ⚙️ Рис 1. Комбінаційна схема для ДДНФ
 
 ![Комбінаційна схема для ДДНФ](combinational-scheme-for-DDNF.png)
+
+⚙️ Рис. 2. Таблиця істинності комбінаційної схеми  ДДНФ
+![Таблиця істинності комбінаційної схеми  ДДНФ](truth-table-of-the-combinational-circuit-if-the-DDNF.png)
