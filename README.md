@@ -146,5 +146,7 @@ y = x̅₄x̅₃x̅₂x₁ ∨ x₃x₂x₁ ∨ x₄x₃x̅₁ ∨ x₄x₂
 | x₄x₂             |           | x           | x          |            | x         | x         |
 
 
+y_тднф = x̅₄x̅₃x̅₂x₁ ∪ x₃x₂x₁ ∪ x₄x₃x̅₁ ∪ x₄x₂
 
+y_мднф = x̅₄x̅₃x̅₂x₁ ∪ x₃x₂x₁ ∪ x₄x₃x̅₁ ∪ x₄x₂
 
