@@ -1,0 +1,1 @@
+# -UA-Minimization-of-switching-functions-by-Quine-s-method
