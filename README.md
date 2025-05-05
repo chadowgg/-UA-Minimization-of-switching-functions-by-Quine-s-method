@@ -112,10 +112,15 @@ y = x̅₄x̅₃x̅₂x₁ ∨ x̅₄x₃x₂x₁ ∨ x₄x̅₃x₂x̅₁ ∨ x
 ### 🔁 Застосування склеювання:
 
 x̅₄x₃x₂x₁ ∨ x₄x₃x₂x₁ = x₃x₂x₁
+
 x₄x̅₃x₂x̅₁ ∨ x₄x̅₃x₂x₁ = x₄x̅₃x₂
+
 x₄x̅₃x₂x̅₁ ∨ x₄x₃x₂x̅₁ = x₄x₂x̅₁
+
 x₄x̅₃x₂x₁ ∨ x₄x₃x₂x₁ = x₄x₂x₁
+
 x₄x₃x̅₂x̅₁ ∨ x₄x₃x₂x̅₁ = x₄x₃x̅₁
+
 x₄x₃x₂x̅₁ ∨ x₄x₃x₂x₁ = x₄x₃x₂
 
 Після всіх склеювань:
