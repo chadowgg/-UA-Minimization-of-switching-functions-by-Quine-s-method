@@ -131,13 +131,32 @@ x₄x₂x̅₁ ∨ x₄x₂x₁ = x₄x₂
 y = x̅₄x̅₃x̅₂x₁ ∨ x₃x₂x₁ ∨ x₄x₃x̅₁ ∨ x₄x₂
 
 Таблиця покриття
-| Імпліканти        | Конституенти                              |
-|-------------------|-------------------------------------------|
-| x4x3x2x1          | x4x3x2x1  | x4x3x2x1 | x4x3x2x1 | x4x3x2x1 | x4x2x1  | x4x2x1  |
-| x4x3x2x1          | x         |           |             |            |            |          |           |
-| x3x2x1            |           | x         |             |            |            |          | x         |
-| x4x3x1            |           |           |             |            | x          | x        |           |
-| x4x2              |           |           | x           | x          |            | x        | x         |
+<table>
+  <tr>
+    <th>Імпліканти</th>
+    <th>Конституенти</th>
+  </tr>
+  <tr>
+    <td>x̅₄x̅₃x̅₂x₁</td>
+    <td>x̅₄x₃x₂x₁ | x₄x̅₃x₂x̅₁ | x₄x̅₃x₂x₁ | x₄x₃x̅₂x̅₁ | x₄x₂x̅₁ | x₄x₂x₁</td>
+  </tr>
+  <tr>
+    <td>x̅₄x̅₃x̅₂x₁</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>x₃x₂x₁</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>x₄x₃x̅₁</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>x₄x₂</td>
+    <td>x</td>
+  </tr>
+</table>
 
 
 
